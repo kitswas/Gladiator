@@ -9,4 +9,6 @@ You don your armour. Helmet, check. Greaves, check.
 
 Offering a prayer to [Ares, your patron God](https://en.wikipedia.org/wiki/Ares), you pick up your sica(sword) and parmula(shield).
 
+---
+
 > [Go to the arena](4.md)
