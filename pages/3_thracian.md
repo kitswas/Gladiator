@@ -1,6 +1,6 @@
 # Thracian
 
-They call you _warlike_, _ferocious_, _bloodthirsty_, and _barbarous_.
+They call you _warlike_, _ferocious_, _bloodthirsty_, and _a barbarian_.
 
 Blue eyes, red hair, tattoos running all over your ripped muscules - you are a dream lover to many.  
 With only a loincloth around your waist, your handsome appearance is exposed for all to see.
