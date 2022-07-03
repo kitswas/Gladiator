@@ -1,0 +1,5 @@
+# VS Code files and settings
+.vscode
+
+# ghostwriter backup files
+*.backup
